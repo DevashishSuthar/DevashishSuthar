@@ -123,3 +123,25 @@
 </p>
 
 <br />
+<h2>Testing</h2>
+<p>
+  <a href="https://jestjs.io/" target="_blank"
+    ><img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"
+      alt="jest"
+      height="85" /></a
+  >&nbsp;&nbsp;
+</p>
+
+<br />
+<h2>Others</h2>
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
+      alt="git"
+      height="85"
+    />
+  </a>
+  &nbsp;&nbsp;
+</p>
