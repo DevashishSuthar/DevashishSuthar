@@ -49,6 +49,13 @@
     />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.apollographql.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"
+      alt="apollo-graphql"
+      height="85"
+    />
+  </a>
 </p>
 <p>
   <a href="https://www.w3.org/html/" target="_blank">
@@ -91,6 +98,12 @@
     ><img
       src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"
       alt="socketio"
+      height="85" /></a
+  >&nbsp;&nbsp;
+  <a href="https://graphql.org/" target="_blank"
+    ><img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"
+      alt="graphql"
       height="85" /></a
   >&nbsp;&nbsp;
 </p>
