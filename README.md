@@ -11,7 +11,6 @@
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
 <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li>
 <li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>.</li>
-<li>:snowman_with_snow: &nbsp;Funny thing about me is I sleep on the next minute I loose my mind.</li>
 </ul>
 
 <br/>
