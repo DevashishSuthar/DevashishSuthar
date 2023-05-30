@@ -12,7 +12,7 @@
 <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li>
 <li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>.</li>
 </ul>
-<p><strong>Live Links: </strong></p>
+<p><strong>Experimental Projects: </strong></p>
 <ul>
   <li>Hostshare App (Next.js + Tailwind CSS): <a
     href="https://hostshare-next.vercel.app/"
