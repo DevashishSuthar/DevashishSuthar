@@ -14,23 +14,29 @@
 </ul>
 <p><strong>Live Links: </strong></p>
 <ul>
+  <li>Hostshare App (Next.js + Tailwind CSS): <a
+    href="https://hostshare-next.vercel.app/"
+    target="_blank"
+  >Demo
+  </a>
+  </li>
   <li>Catstronauts App with GraphQL: <a
     href="https://catstronauts-react.netlify.app/"
     target="_blank"
-  >demo
+  >Demo
   </a>
   </li>
    <li>Family Tree App: <a
     href="https://family-tree-react.netlify.app/"
     target="_blank"
-  >demo
+  >Demo
   </a>
   </li>
   </li>
    <li>Import Export Excel App: <a
     href="https://import-export-excel.netlify.app/"
     target="_blank"
-  >demo
+  >Demo
   </a>
   </li>
 </ul>
