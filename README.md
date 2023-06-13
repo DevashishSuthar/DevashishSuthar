@@ -14,7 +14,13 @@
 </ul>
 <p><strong>Experimental Projects: </strong></p>
 <ul>
-  <li>Hostshare App (Next.js + Tailwind CSS): <a
+  <li>Airbnb Clone App (Next.js + Typescript + Tailwind CSS): <a
+    href="https://airbnb-next-me.vercel.app/"
+    target="_blank"
+  >Demo
+  </a>
+  </li>
+  <li>Hostshare App (Next.js + Typescript + Tailwind CSS): <a
     href="https://hostshare-next.vercel.app/"
     target="_blank"
   >Demo
