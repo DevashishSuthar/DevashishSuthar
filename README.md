@@ -1,16 +1,16 @@
-<h1 align="center">Hi there :wave:, I'm Devashish :panda_face: </h1>
+<h1 align="center">Hi there :wave:, I'm Devashish :ninja: </h1>
 
-<h3 align="center">A Passionate JavaScript Developer From Rajasthan, India :man_technologist:</h3>
+<h3 align="center">A Full Stack Developer From Rajasthan, India</h3>
 
 <br/>
-<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, A calm personality with good command on JavaScript, React and Node with more than 4 years of experience in IT industry.</strong></p>
+<p><strong>Welcome to my profile! I'm coder by passion & profession :ninja:, A calm personality with good command on JavaScript, React and Node with around 5 years of experience in IT industry.</strong></p>
 </br>
 
 <ul>
 <li>:briefcase: &nbsp;I'm currently seeking opportunities.</li>
 <li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
 <li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li>
-<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>.</li>
+<li>:inbox_tray: &nbsp;You can reach out to me at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>.</li>
 </ul>
 <p><strong>Experimental Projects: </strong></p>
 <ul>
