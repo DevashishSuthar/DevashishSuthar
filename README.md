@@ -3,14 +3,15 @@
 <h3 align="center">A Full Stack Developer From Rajasthan, India</h3>
 
 <br/>
-<p><strong>Welcome to my profile! I'm coder by passion & profession :ninja:, A calm personality with good command on JavaScript, React and Node with around 5 years of experience in IT industry.</strong></p>
+<p><strong>Welcome to my coding realm! :rocket: As a coding enthusiast, I've turned my passion into a profession :ninja: , and I'm on a mission to unlock the potential of the digital world. :globe_with_meridians: <br/>
+With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, React, and Node with around 5 years of industry experience. :briefcase:</strong></p>
 </br>
 
 <ul>
-<li>:briefcase: &nbsp;I'm currently seeking opportunities.</li>
-<li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
-<li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, TypeScript, React, Next.js & Node</strong>.</li>
-<li>:inbox_tray: &nbsp;You can reach out to me at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>.</li>
+<li>:rocket: &nbsp;<strong>Open for Adventures:</strong> I'm currently exploring the vast realm of opportunities, seeking new horizons where I can contribute and thrive.</li>
+<li>:fist_right: &nbsp;<strong>Teamwork Maestro:</strong>Collaboration is where magic happens! I'm on the lookout for kindred spirits to embark on thrilling coding adventures together.</li>
+<li>:nerd_face: &nbsp;<strong>JavaScript Aficionado:</strong>When it comes to <strong>JavaScript, TypeScript, React, Next.js, and Node,</strong> I'm your go-to source of wisdom. Feel free to pick my brain about these tech wonders.</li>
+<li>:inbox_tray: &nbsp;<strong>Connect with Me:</strong>Have a brilliant idea or simply want to say hello? Don't hesitate to reach out at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>. Let's turn ideas into digital realities! :bulb: :fire:</li>
 </ul>
 <p><strong>Experimental Projects: </strong></p>
 <ul>
