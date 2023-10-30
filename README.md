@@ -12,6 +12,7 @@ With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, R
 <li>:fist_right: &nbsp;<strong>Teamwork Maestro:</strong> Collaboration is where magic happens! I'm on the lookout for kindred spirits to embark on thrilling coding adventures together.</li>
 <li>:nerd_face: &nbsp;<strong>JavaScript Aficionado:</strong> When it comes to <strong>JavaScript, TypeScript, React, Next.js, and Node,</strong> I'm your go-to source of wisdom. Feel free to pick my brain about these tech wonders.</li>
 <li>:inbox_tray: &nbsp;<strong>Connect with Me:</strong> Have a brilliant idea or simply want to say hello? Don't hesitate to reach out at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>. Let's turn ideas into digital realities! :bulb: :fire:</li>
+<li>🧔✨ &nbsp;<strong>Unveil my distinctive charm:</strong> In a world of color, I stand out with my monochrome charm—a single, natural white beard on the left, my trademark style. :sunglasses:</li>
 </ul>
 <p><strong>Experimental Projects: </strong></p>
 <ul>
