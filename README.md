@@ -16,32 +16,32 @@ With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, R
 </ul>
 <p><strong>Experimental Projects: </strong></p>
 <ul>
-  <li>Airbnb Clone App (Next.js + Typescript + Tailwind CSS): <a
+  <li><strong>Airbnb Clone App</strong> (Next.js + Typescript + Tailwind CSS): <a
     href="https://airbnb-next-me.vercel.app/"
     target="_blank"
   >Demo
   </a>
   </li>
-  <li>Hostshare App (Next.js + Typescript + Tailwind CSS): <a
+  <li><strong>Hostshare App</strong> (Next.js + Typescript + Tailwind CSS): <a
     href="https://hostshare-next.vercel.app/"
     target="_blank"
   >Demo
   </a>
   </li>
-  <li>Catstronauts App with GraphQL: <a
+  <li><strong>Catstronauts App with GraphQL</strong>: <a
     href="https://catstronauts-react.netlify.app/"
     target="_blank"
   >Demo
   </a>
   </li>
-   <li>Family Tree App (Loading delays expected due to server deployment on Render.com): <a
+   <li><strong>Family Tree App</strong> (Loading delays expected due to server deployment on Render.com): <a
     href="https://family-tree-react.netlify.app/"
     target="_blank"
   >Demo
   </a>
   </li>
   </li>
-   <li>Import Export Excel App (Loading delays expected due to server deployment on Render.com): <a
+   <li><strong>Import Export Excel App</strong> (Loading delays expected due to server deployment on Render.com): <a
     href="https://import-export-excel.netlify.app/"
     target="_blank"
   >Demo
