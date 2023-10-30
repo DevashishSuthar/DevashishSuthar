@@ -34,14 +34,14 @@ With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, R
   >Demo
   </a>
   </li>
-   <li>Family Tree App: <a
+   <li>Family Tree App (Loading delays expected due to server deployment on Render.com): <a
     href="https://family-tree-react.netlify.app/"
     target="_blank"
   >Demo
   </a>
   </li>
   </li>
-   <li>Import Export Excel App: <a
+   <li>Import Export Excel App (Loading delays expected due to server deployment on Render.com): <a
     href="https://import-export-excel.netlify.app/"
     target="_blank"
   >Demo
