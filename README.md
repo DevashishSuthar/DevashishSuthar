@@ -4,7 +4,7 @@
 
 <br/>
 <p><strong>Welcome to my coding realm! :rocket: As a coding enthusiast, I've turned my passion into a profession :ninja: , and I'm on a mission to unlock the potential of the digital world. :globe_with_meridians: <br/>
-With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, React, and Node with around 5 years of industry experience. :briefcase:</strong></p>
+With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, React, and Node with 5 years of industry experience. :briefcase:</strong></p>
 </br>
 
 <ul>
