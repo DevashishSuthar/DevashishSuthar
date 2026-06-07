@@ -45,7 +45,7 @@ With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, R
   </li>
   </li>
    <li><strong>Import Export Excel App</strong> (Loading delays expected due to server deployment on Render.com): <a
-    href="https://import-export-excel.netlify.app/"
+    href="https://import-export-excel.vercel.app/"
     target="_blank"
   >Demo
   </a>
