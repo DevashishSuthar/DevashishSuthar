@@ -37,12 +37,6 @@ With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, R
   >Demo
   </a>
   </li>
-   <li><strong>Family Tree App</strong> (Loading delays expected due to server deployment on Render.com): <a
-    href="https://family-tree-react.netlify.app/"
-    target="_blank"
-  >Demo
-  </a>
-  </li>
   </li>
    <li><strong>Import Export Excel App</strong> (Loading delays expected due to server deployment on Render.com): <a
     href="https://import-export-excel.vercel.app/"
