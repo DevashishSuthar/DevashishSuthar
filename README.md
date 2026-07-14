@@ -165,7 +165,7 @@ A conversational AI agent that runs a small Indian kirana (grocery) store end-to
 
 <br />
 
-### AI / Agents
+<h2>AI / Agents</h2>
 <p>
   <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
