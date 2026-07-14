@@ -15,13 +15,13 @@ With a calm disposition, I wield my coding superpowers :muscle: in JavaScript, T
 </br>
 
 <ul>
-<!-- <li>:rocket: &nbsp;<strong>Open for Adventures:</strong> I'm currently exploring the vast realm of opportunities, seeking new horizons where I can contribute and thrive.</li> -->
-<li>:rocket: &nbsp;<strong>Open for Adventures:</strong> Actively looking for full-stack / AI-integrated engineering roles — remote or on-site.</li>
-<li>🤖 &nbsp;<strong>Currently exploring:</strong> Agentic systems — LLM tool-orchestration, grounding, and business-rule-enforcing tool design (see featured project below).</li>
-<li>:fist_right: &nbsp;<strong>Teamwork Maestro:</strong> Collaboration is where magic happens! Always up for kindred spirits to embark on thrilling coding adventures.</li>
-<li>:nerd_face: &nbsp;<strong>JavaScript Aficionado:</strong> When it comes to <strong>JavaScript, TypeScript, React, Next.js, and Node,</strong> I'm your go-to source of wisdom. Feel free to pick my brain about these tech wonders.</li>
-<li>:inbox_tray: &nbsp;<strong>Connect with Me:</strong> Have a brilliant idea or simply want to say hello? Don't hesitate to reach out at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>. Let's turn ideas into digital realities! :bulb: :fire:</li>
-<li>🧔✨&nbsp;<strong>Unveil my distinctive charm:</strong> In a world of color, I stand out with my monochrome charm — a single, natural white beard on the left, my trademark style. :sunglasses:</li>
+  <!-- <li>:rocket: &nbsp;<strong>Open for Adventures:</strong> I'm currently exploring the vast realm of opportunities, seeking new horizons where I can contribute and thrive.</li> -->
+  <li>:rocket: &nbsp;<strong>Open for Adventures:</strong> Actively looking for full-stack / AI-integrated engineering roles — remote or on-site.</li>
+  <li>🤖 &nbsp;<strong>Currently exploring:</strong> Agentic systems — LLM tool-orchestration, grounding, and business-rule-enforcing tool design (see featured project below).</li>
+  <li>:fist_right: &nbsp;<strong>Teamwork Maestro:</strong> Collaboration is where magic happens! Always up for kindred spirits to embark on thrilling coding adventures.</li>
+  <li>:nerd_face: &nbsp;<strong>JavaScript Aficionado:</strong> When it comes to <strong>JavaScript, TypeScript, React, Next.js, and Node,</strong> I'm your go-to source of wisdom. Feel free to pick my brain about these tech wonders.</li>
+  <li>:inbox_tray: &nbsp;<strong>Connect with Me:</strong> Have a brilliant idea or simply want to say hello? Don't hesitate to reach out at <strong><a href="mailto:devashish.suthar5728@gmail.com">devashish.suthar5728@gmail.com</a></strong>. Let's turn ideas into digital realities! :bulb: :fire:</li>
+  <li>🧔✨&nbsp;<strong>Unveil my distinctive charm:</strong> In a world of color, I stand out with my monochrome charm — a single, natural white beard on the left, my trademark style. :sunglasses:</li>
 </ul>
 
 ## 🛒 Featured Project: Supermarket Ops Agent
@@ -66,19 +66,18 @@ A conversational AI agent that runs a small Indian kirana (grocery) store end-to
 
 <br/>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevashishSuthar&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevashishSuthar&layout=compact&hide_border=true" />
-</p>
+</p> -->
 
-<br/>
+<!-- <br/> -->
 
-## 🧰 Tech Stack
+<!-- ## 🧰 Tech Stack -->
 
 <h2>Frontend</h2>
-
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img
